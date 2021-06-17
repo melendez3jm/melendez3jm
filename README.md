@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @melendez3jm
-- 👀 I’m interested in sports, fitness, artificial intelligence, hiking, and newworking.
-- 🌱 I’m currently learning how to code in Python, C#, Java, HTML, and CSS.
+- 👀 I’m interested in sports, fitness, artificial intelligence, hiking, and networking.
+- 🌱 I’m currently learning how to code in Python, C#, Java, HTML, and CS
+- I am a very effecient coder in C#, as well as have a well understanding of how businesses work, 
+- and analyzing different data and their correaltion.
 - 💞️ I’m looking to collaborate on projects that can test my knowledge and help push me to new knowledge. 
 - 📫 How to reach me at jammelendez723@gmail.com
 
